@@ -1,0 +1,8 @@
+{
+  "appId": "com.bhimmondal.minimalcalendar",
+  "appName": "Minimal Calendar",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

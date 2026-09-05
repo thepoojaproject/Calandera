@@ -1,0 +1,12 @@
+{
+  "name": "Minimal Calendar",
+  "short_name": "Calendar",
+  "description": "A minimal offline calendar with date-based notes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#dedbd6",
+  "theme_color": "#dedbd6",
+  "icons": []
+}
